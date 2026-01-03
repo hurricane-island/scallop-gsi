@@ -63,3 +63,5 @@ __pycache__/
 # Ignore Visual Studio files
 .vscode/
 .Rproj.user
+.RData
+.Rhistory
